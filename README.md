@@ -368,7 +368,7 @@ Contributions are what make the open-source community amazing! Any contributions
 
 ## 👥 Team
 
-- **Your Name** - Team Lead & Full Stack Developer - [GitHub](https://github.com/yourusername)
+- **Lalit Kishor** - Team Lead & Full Stack Developer - [GitHub]~(https://github.com/yourusername)
 - **Teammate 2** - Frontend Developer - [GitHub](https://github.com/teammate2)
 - **Teammate 3** - ML Engineer - [GitHub](https://github.com/teammate3)
 - **Teammate 4** - Backend Developer - [GitHub](https://github.com/teammate4)
