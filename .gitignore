@@ -50,7 +50,8 @@ ENV/
 .venv
 
 # ============ ML Models ============
-# Uncomment this if model files are too large (>100MB)
+# Large model files (>100MB) excluded from GitHub
+ml-service/test.pt
 # ml-service/models/*.pt
 # ml-service/models/*.h5
 # ml-service/models/*.pkl
